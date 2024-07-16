@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 - Email: [zhixi.xu.joy@gmail.com](mailto:zhixi.xu.joy@gmail.com)
 - GitHub: [https://github.com/joyxxi](https://github.com/joyxxi)
 
-![Profile views](https://komarev.com/ghpvc/?username=yourGitHub&color=brightgreen&style=flat-square)
+
+ ![Profile views](https://komarev.com/ghpvc/?username=yourGitHub&color=ff69b4&style=for-the-badge)
+
+ Skills: 

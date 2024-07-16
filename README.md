@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### 📮 Connect with Me
 - **LinkedIn**: [Zhixi Xu](https://www.linkedin.com/in/zhixi-xu/)
-- **Email**: [zhixi.xu.joy@gmail.com](mailto:zhixi.xu.joy@gmail.com)
+- **Email**: [joyxxi@gmail.com](mailto:joyxxi@gmail.com) or [zhixi.xu.joy@gmail.com](mailto:zhixi.xu.joy@gmail.com)
 - **GitHub**: [joyxxi](https://github.com/joyxxi)
 
 ### 🛠️ Technical Skills:

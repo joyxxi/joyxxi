@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 I'm a Master's student in Computer Science at Northeastern University, diving deep into Data Structures, Web Development, and Cloud Computing. I’m passionate about creating efficient and scalable software solutions!
 
-👩‍💻 Passionate about both backend and frontend development, I use technologies like Spring, Express, React, and Next.js to build responsive and scalable applications. I’m also diving into the world of DevOps with AWS to enhance my cloud architecture skills.
+👩‍💻 Passionate about both backend and frontend development, I use technologies like Spring, Express, React, and Next.js to build responsive and scalable applications. I’m also diving into the world of Cloud Architecture with AWS.
 
 🚀 Engaged in continuous learning and improvement, I’m **always ready to tackle the next big challenge**!
 
